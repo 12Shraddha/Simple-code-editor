@@ -1,0 +1,10 @@
+.App {
+  padding: "20px";
+}
+
+.App h1 {
+  color: cadetblue;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  padding: "20px";
+}
